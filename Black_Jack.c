@@ -1,7 +1,7 @@
 /*
  * Author: Noga Avraham
  * Description: .cpp Implementation of the "Black Jack" game (using generelized void* data storing Single Linked List).
-                [Real-Time Group C course project]
+          
  * Language:  C
  * Date: July 2021
 */
