@@ -2,7 +2,7 @@
 #define __BLACK_JACK_H__
 /*
  * Author: Noga Avraham
- * Description: Header for the "Black Jack" game. [Real-Time Group C course project]
+ * Description: Header for the "Black Jack" game. 
  * Language:  C
  * Date: July 2021
 */
