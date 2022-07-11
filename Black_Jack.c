@@ -63,14 +63,6 @@ typedef struct sum_args {
 }sum_args_t;
 
 
-/*[Note for tester: I implemented a generelized void* SSL, so no need of this card struct:]
-
-typedef struct Card Card_t;
-struct Card {
-	uint8_t _suitRank;
-	Card_t* _next;
-};*/
-
 //STATIC PROTOTYPES - to be used internaly only by this .cpp file
 //-----------------
 //initialization functions:
